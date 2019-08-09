@@ -3,12 +3,54 @@ type: profile
 description: 'SPHTechBlog - Custom profile'
 core: 8.x
 
-dependencies:
-  - crop
-  - image_widget_crop
-  - libraries
-
 install:
+  - automated_cron
+  - big_pipe
+  - block
+  - block_content
+  - breakpoint
+  - ckeditor
+  - color
+  - comment
+  - config
+  - contact
+  - contextual
+  - datetime
+  - dblog
+  - dynamic_page_cache
+  - editor
+  - field
+  - field_ui
+  - file
+  - filter
+  - help
+  - history
+  - image
+  - link
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
+  - quickedit
+  - rdf
+  - search
+  - shortcut
+  - system
+  - taxonomy
+  - text
+  - toolbar
+  - tour
+  - update
+  - user
+  - views_ui
+  - menu_link_content
+  - views
   - crop
   - image_widget_crop
   - libraries
+themes:
+  - stable
+  - classy
+  - seven
+  - bartik
