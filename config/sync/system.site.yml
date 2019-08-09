@@ -1,0 +1,14 @@
+uuid: 41d4df76-e059-48df-8216-f25ad110333c
+name: 'Custom Profile'
+mail: dhaya4us@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
