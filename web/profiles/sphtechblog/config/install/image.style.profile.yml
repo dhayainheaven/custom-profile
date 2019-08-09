@@ -1,0 +1,25 @@
+uuid: dce6288b-6bec-4c71-9e1a-6056170bcf79
+langcode: en
+status: true
+dependencies:
+  config:
+    - crop.type.profile
+  module:
+    - crop
+name: profile
+label: Profile
+effects:
+  76ea31ec-432d-4a3c-a66c-ddb5bf2fba94:
+    uuid: 76ea31ec-432d-4a3c-a66c-ddb5bf2fba94
+    id: crop_crop
+    weight: 1
+    data:
+      crop_type: profile
+  5afefafc-2c38-4111-a46b-a42be4139981:
+    uuid: 5afefafc-2c38-4111-a46b-a42be4139981
+    id: image_scale
+    weight: 2
+    data:
+      width: 60
+      height: 70
+      upscale: false

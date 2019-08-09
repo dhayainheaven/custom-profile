@@ -1,0 +1,19 @@
+uuid: edeb6109-06b8-4925-a753-672ef9afb8a3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_email_address
+    - node.type.author
+id: node.author.field_email_address
+field_name: field_email_address
+entity_type: node
+bundle: author
+label: 'Email Address'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: email

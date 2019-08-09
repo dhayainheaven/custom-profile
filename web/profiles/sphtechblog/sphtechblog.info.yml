@@ -1,0 +1,14 @@
+name: SPHTechBlog
+type: profile
+description: 'SPHTechBlog - Custom profile'
+core: 8.x
+
+dependencies:
+  - crop
+  - image_widget_crop
+  - libraries
+
+install:
+  - crop
+  - image_widget_crop
+  - libraries

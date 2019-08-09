@@ -1,0 +1,12 @@
+uuid: 2bd1d045-4bc8-40da-8fd2-318c2a58af81
+langcode: en
+status: true
+dependencies: {  }
+label: Profile
+id: profile
+description: ''
+aspect_ratio: '6:7'
+soft_limit_width: 60
+soft_limit_height: 70
+hard_limit_width: 60
+hard_limit_height: 70
